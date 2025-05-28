@@ -20,53 +20,42 @@
 - **成长地**：浙江·温州
 - **现居地**：广东·深圳
 - **家乡特色**：
-  - 🍵 西湖龙井茶
-  - 🏞️ 西湖风景区
-  - 🏯 千年古都文化
+  - 🍵 杨梅与欧柑
+  - 🏞️ 雁荡山风景区
+  - 🏯 数学家之乡
 
 ---
 
 ## ❤️ 兴趣爱好
 ### 💻 技术方向
-- Web 前端开发（React/Vue）
+- Java 后端开发
+- MATLAB 数据分析
 - Python 数据分析
-- 开源项目贡献
-- Linux 系统管理
+- Excel 统计分析
 
 ### 🎨 创意爱好
-- 摄影 [查看我的相册](https://lalawr.github.io/photos)
-- 数字绘画
+- wiki 查证与补充
 - UI/UX 设计
 
 ### 🎵 休闲娱乐
 - 🎮 独立游戏开发
-- 🎧 电子音乐制作
-- 📚 科幻小说阅读
+- 🎧 古典音乐作曲
+- 📚 象棋比赛竞技
 
 ---
 
 ## 🔗 重要链接
-- **个人博客**: [lalawr's Tech Notes](https://lalawr.github.io/blog)
-- **项目集锦**: [GitHub Repositories](https://github.com/lalawr?tab=repositories)
-- **作品集**: [设计作品展示](https://lalawr.github.io/portfolio)
-- **技术笔记**: [LeetCode 题解](https://lalawr.github.io/leetcode)
+- **个人博客**: [待完善](https://lalawr.github.io/blog)
+- **项目集锦**: [待完善](https://github.com/lalawr?tab=repositories)
+- **作品集**: [待完善](https://lalawr.github.io/portfolio)
+- **技术笔记**: [待完善](https://lalawr.github.io/leetcode)
 
 ---
 
 ## 📬 联系方式
-- **邮箱**: [lalawr@example.com](mailto:lalawr@example.com)
-- **学术邮箱**: [lalawr@university.edu](mailto:lalawr@university.edu)
+- **网易邮箱**: [lalawr@163.com](mailto:lalawr@163.com)
+- **学术邮箱**: [12212417@mail.sustech.edu.cn](mailto:12212417@mail.sustech.edu.cn)
 - **GitHub Issues**: [提交问题](https://github.com/lalawr/lalawr.github.io/issues)
-
----
-
-## 🛠️ 技术栈
-![](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
 ---
 
@@ -75,5 +64,5 @@
 
 ---
 
-> "代码如诗，逻辑如画"  
+> "代码如诗，数学如画"  
 > 保持好奇心，探索无限可能 ✨
